@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Network Security and Development with Multiprocessing**
 
-- 📝 I regularly write articles on [computerdragon.blogspot.com](computerdragon.blogspot.com)
+- 📝 I sometimes write articles on [computerdragon.blogspot.com](computerdragon.blogspot.com)
 
 - 📫 How to reach me **kmertcenk@yahoo.com**
 
