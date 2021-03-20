@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Cenk </h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kotlin, Network Security and Development with Multiprocessing**
+- 🌱 I’m currently learning **Android Development with Kotlin, Network Security and Development with Multiprocessing**
 
 - 📝 I sometimes write articles on [computerdragon.blogspot.com](computerdragon.blogspot.com)
 
