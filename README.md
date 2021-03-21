@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android Development with Kotlin, Network Security and Development with Multiprocessing**
 
-- 📝 I sometimes write articles on [computerdragon.blogspot.com](computerdragon.blogspot.com)
+- 📝 I sometimes write articles on <a href="https://computerdragon.blogspot.com">computerdragon.blogspot.com</a>
 
 - 📫 How to reach me **kmertcenk@yahoo.com**
 
