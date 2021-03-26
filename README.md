@@ -5,7 +5,7 @@
 
 - 📝 I sometimes write articles on <a href="https://computerdragon.blogspot.com">computerdragon.blogspot.com</a>
 
-- 📫 How to reach me **kmertcenk@yahoo.com**
+- 📫 How to reach me **mertcenkkilic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
