@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert Cenk </h1>
 
-- 🌱 I’m currently learning **Android Development with Kotlin, Network Security and,Software Development with Multiprocessing**
+- 🌱 I’m currently learning **Web development, Network Security and, Software Development with Multiprocessing**
 
 - 📝 I sometimes write articles on <a href="https://computerdragon.blogspot.com">computerdragon.blogspot.com</a>
 
